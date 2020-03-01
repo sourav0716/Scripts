@@ -1,2 +1,4 @@
-def sum(x,y):
-    return x+y
+def sum(n,m):
+    n=5
+    m=10
+    return n+m
