@@ -7,4 +7,4 @@ def multiply(x,y):
 def divide(x,y):
     return x/y
 def modulus(x,y):
-    return x%y
+    return y%x
